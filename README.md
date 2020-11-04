@@ -1,6 +1,10 @@
 ### Hi there 👋
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FUnitySio&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-<!--
+<a href="https://github.com/UnitySio/UnitySio">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rrrmaster&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=90,2b5876,4e4376" />
+</a>
+<a href="https://github.com/UnitySio/UnitySio">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=UnitySio&show_icons=true&line_height=27&count_private=true&bg_color=90,2b5876,4e4376&title_color=fff&text_color=fff&icon_color=4ca1af"/>
+</a><!--
 **UnitySio/UnitySio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
