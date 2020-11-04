@@ -1,5 +1,45 @@
 ### Hello guys 👋
 
+### Sio can use these programming languages
+
+<a href="https://github.com/UnitySio/UnitySio">
+  <img align="center" src="https://img.shields.io/badge/C-Normal-green"/>
+</a>
+<br>
+<a href="https://github.com/UnitySio/UnitySio">
+  <img align="center" src="https://img.shields.io/badge/C#-Normal-green"/>
+</a>
+<br>
+<a href="https://github.com/UnitySio/UnitySio">
+  <img align="center" src="https://img.shields.io/badge/HTML5-Normal-green"/>
+</a>
+<br>
+<a href="https://github.com/UnitySio/UnitySio">
+  <img align="center" src="https://img.shields.io/badge/PHP-Normal-green"/>
+</a>
+<a href="https://github.com/UnitySio/UnitySio">
+  <img align="center" src="https://img.shields.io/badge/Javascript-Normal-green"/>
+</a>
+<br>
+<a href="https://github.com/UnitySio/UnitySio">
+  <img align="center" src="https://img.shields.io/badge/CSS-Normal-green"/>
+</a>
+<br>
+<a href="https://github.com/UnitySio/UnitySio">
+  <img align="center" src="https://img.shields.io/badge/Python-Normal-green"/>
+</a>
+<br>
+<a href="https://github.com/UnitySio/UnitySio">
+  <img align="center" src="https://img.shields.io/badge/GMS-Normal-green"/>
+</a>
+<br>
+<a href="https://github.com/UnitySio/UnitySio">
+  <img align="center" src="https://img.shields.io/badge/XML-Normal-green"/>
+</a>
+<br>
+<a href="https://github.com/UnitySio/UnitySio">
+  <img align="center" src="https://img.shields.io/badge/Java-Normal-green"/>
+</a>
 ### Sio can speak these languages
 
 <a href="https://github.com/UnitySio/UnitySio">
