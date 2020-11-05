@@ -10,6 +10,10 @@
   <img align="center" src="https://img.shields.io/badge/Gmail-dnwls010728@gmail.com-D14836?style=for-the-badge&logo=Gmail"/>
 </a>
 
+<a href="https://github.com/UnitySio/UnitySio">
+  <img align="center" src="https://img.shields.io/badge/Discord-Sio%235669-7289DA?style=for-the-badge&logo=Discord"/>
+</a>
+
 ### Sio can use these programming languages
 
 <a href="https://github.com/UnitySio/UnitySio">
