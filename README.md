@@ -3,61 +3,61 @@
 ### Sio can use these programming languages
 
 <a href="https://github.com/UnitySio/UnitySio">
-  <img align="center" src="https://img.shields.io/badge/C-Normal-green"/>
+  <img align="center" src="https://img.shields.io/badge/C-Normal-ABB9CC?style=for-the-badge&logo=C"/>
 </a>
 <br>
 <a href="https://github.com/UnitySio/UnitySio">
-  <img align="center" src="https://img.shields.io/badge/C%23-Normal-green"/>
+  <img align="center" src="https://img.shields.io/badge/C%23-Normal-239120?style=for-the-badge&logo=C-Sharp"/>
 </a>
 <br>
 <a href="https://github.com/UnitySio/UnitySio">
-  <img align="center" src="https://img.shields.io/badge/HTML5-Normal-green"/>
+  <img align="center" src="https://img.shields.io/badge/HTML5-Normal-E34F26?style=for-the-badge&logo=HTML5"/>
 </a>
 <br>
 <a href="https://github.com/UnitySio/UnitySio">
-  <img align="center" src="https://img.shields.io/badge/PHP-Normal-green"/>
+  <img align="center" src="https://img.shields.io/badge/PHP-Normal-777BB4?style=for-the-badge&logo=PHP"/>
 </a>
 <br>
 <a href="https://github.com/UnitySio/UnitySio">
-  <img align="center" src="https://img.shields.io/badge/Javascript-Normal-green"/>
+  <img align="center" src="https://img.shields.io/badge/Javascript-Normal-F7DF1E?style=for-the-badge&logo=Javascript"/>
 </a>
 <br>
 <a href="https://github.com/UnitySio/UnitySio">
-  <img align="center" src="https://img.shields.io/badge/CSS-Normal-green"/>
+  <img align="center" src="https://img.shields.io/badge/CSS3-Normal-1572B6?style=for-the-badge&logo=CSS3"/>
 </a>
 <br>
 <a href="https://github.com/UnitySio/UnitySio">
-  <img align="center" src="https://img.shields.io/badge/Python-Normal-green"/>
+  <img align="center" src="https://img.shields.io/badge/Python-Normal-3776AB?style=for-the-badge&logo=Python"/>
 </a>
 <br>
 <a href="https://github.com/UnitySio/UnitySio">
-  <img align="center" src="https://img.shields.io/badge/GMS-Normal-green"/>
+  <img align="center" src="https://img.shields.io/badge/GMS-Normal-green"?style=for-the-badge&logo="/>
 </a>
 <br>
 <a href="https://github.com/UnitySio/UnitySio">
-  <img align="center" src="https://img.shields.io/badge/XML-Normal-green"/>
+  <img align="center" src="https://img.shields.io/badge/XML-Normal-green?style=for-the-badge&logo="/>
 </a>
 <br>
 <a href="https://github.com/UnitySio/UnitySio">
-  <img align="center" src="https://img.shields.io/badge/Java-Normal-green"/>
+  <img align="center" src="https://img.shields.io/badge/Java-Normal-007396?style=for-the-badge&logo=Java"/>
 </a>
 
 ### Sio can speak these languages
 
 <a href="https://github.com/UnitySio/UnitySio">
-  <img align="center" src="https://img.shields.io/badge/Korean-Normal-green"/>
+  <img align="center" src="https://img.shields.io/badge/Korean-Normal-green?style=for-the-badge&logo="/>
 </a>
 <br>
 <a href="https://github.com/UnitySio/UnitySio">
-  <img align="center" src="https://img.shields.io/badge/English-Normal-green"/>
+  <img align="center" src="https://img.shields.io/badge/English-Normal-green?style=for-the-badge&logo="/>
 </a>
 <br>
 <a href="https://github.com/UnitySio/UnitySio">
-  <img align="center" src="https://img.shields.io/badge/Japanese-Nomal-green"/>
+  <img align="center" src="https://img.shields.io/badge/Japanese-Nomal-green?style=for-the-badge&logo="/>
 </a>
 <br>
 <a href="https://github.com/UnitySio/UnitySio">
-  <img align="center" src="https://img.shields.io/badge/Chinese-Normal-green"/>
+  <img align="center" src="https://img.shields.io/badge/Chinese-Normal-green?style=for-the-badge&logo="/>
 </a>
 
 ### The software that Sio is using
