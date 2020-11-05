@@ -1,7 +1,6 @@
 ### Hello guys 👋
 
-<p>My name is Sio</p>
-<p>I'm Korean</p>
+<p>My name is Sio.<br>>I'm Korean.</p>
 
 ### Sio's contact
 
@@ -73,6 +72,10 @@
 </a>
 <a href="https://github.com/UnitySio/UnitySio">
   <img align="center" src="https://img.shields.io/badge/-Adobe Photoshop 2021-31A8FF?style=for-the-badge&logo=Adobe-Photoshop&logoColor=white"/>
+</a>
+<a href="https://github.com/UnitySio/UnitySio">
+  <img align="center" src="https://img.shields.io/badge/-Visual Studio-31A8FF?style=for-the-badge&logo=Visual Studio&logoColor=white"/>
+</a>
 
 ### Sio's Github Stats
 
