@@ -31,7 +31,7 @@
 </a>
 <br>
 <a href="https://github.com/UnitySio/UnitySio">
-  <img align="center" src="https://img.shields.io/badge/GMS-Normal-green"?style=for-the-badge&logo=https://www-assets.yoyogames.com/assets/core/new/yoyogames-48df97be8198034097ae4856179b8b00.png"/>
+  <img align="center" src="https://img.shields.io/badge/GMS-Normal-green?style=for-the-badge&logo="/>
 </a>
 <br>
 <a href="https://github.com/UnitySio/UnitySio">
