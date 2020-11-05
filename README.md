@@ -1,4 +1,4 @@
-<h1>Hello, guys</h1>:information_source:
+:information_source:Hello, guys
 
 <p>My name is Sio.<br>I'm Korean.</p>
 <hr>
