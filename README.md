@@ -92,7 +92,6 @@
 <a href="https://github.com/UnitySio/UnitySio">
   <img align="center" src="https://img.shields.io/badge/-Android Studio-3DDC84?style=for-the-badge&logo=Android-Studio&logoColor=white"/>
 </a>
-<br>
 <a href="https://github.com/UnitySio/UnitySio">
   <img align="center" src="https://img.shields.io/badge/-GitKraken-179287?style=for-the-badge&logo=GitKraken&logoColor=white"/>
 </a>
