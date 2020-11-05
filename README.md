@@ -74,7 +74,10 @@
   <img align="center" src="https://img.shields.io/badge/-Adobe Photoshop 2021-31A8FF?style=for-the-badge&logo=Adobe-Photoshop&logoColor=white"/>
 </a>
 <a href="https://github.com/UnitySio/UnitySio">
-  <img align="center" src="https://img.shields.io/badge/-Visual Studio-31A8FF?style=for-the-badge&logo=Visual Studio&logoColor=white"/>
+  <img align="center" src="https://img.shields.io/badge/-Visual Studio-5C2D91?style=for-the-badge&logo=Visual-Studio&logoColor=white"/>
+</a>
+<a href="https://github.com/UnitySio/UnitySio">
+  <img align="center" src="https://img.shields.io/badge/-Visual Studio Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white"/>
 </a>
 
 ### Sio's Github Stats
