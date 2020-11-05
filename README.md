@@ -7,7 +7,7 @@
 </a>
 <br>
 <a href="https://github.com/UnitySio/UnitySio">
-  <img align="center" src="https://img.shields.io/badge/dnwls010728@gmail.com-D14836?style=for-the-badge&logo=Gmail?logoColor=FFFFFF"/>
+  <img align="center" src="https://img.shields.io/badge/-dnwls010728@gmail.com-D14836?style=for-the-badge&logo=Gmail?logoColor=white"/>
 </a>
 <br>
 <a href="https://github.com/UnitySio/UnitySio">
