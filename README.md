@@ -63,7 +63,7 @@
 ### The software that Sio is using
 
 <a href="https://github.com/UnitySio/UnitySio">
-  <img align="center" src="https://simpleicons.org/icons/unity.svg"/>
+  <img alt="Unity" src="https://simpleicons.org/icons/unity.svg" data-canonical-src="https://img.shields.io/badge/-Unity-000000?style=flat-square&amp;logo=unity&amp;logoColor=white" style="max-width:100%;">
   <img align="center" src="https://img.shields.io/badge/Unity-v2020.1.9f1-green"/>
 </a>
 <br>
@@ -75,7 +75,7 @@
   <img align="center" src="https://img.shields.io/badge/Adobe Photoshop 2021-v22.0-green"/>
 </a>
 
-### Sio's Github State
+### Sio's Github Stats
 
 <a href="https://github.com/UnitySio/UnitySio">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UnitySio&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=90,2b5876,4e4376" />
