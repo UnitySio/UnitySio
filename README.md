@@ -63,8 +63,7 @@
 ### The software that Sio is using
 
 <a href="https://github.com/UnitySio/UnitySio">
-  <img alt="Unity" src="https://simpleicons.org/icons/unity.svg" data-canonical-src="https://img.shields.io/badge/-Unity-000000?style=flat-square&amp;logo=unity&amp;logoColor=white" style="max-width:100%;">
-  <img align="center" src="https://img.shields.io/badge/Unity-v2020.1.9f1-green"/>
+  <img align="center" src="https://img.shields.io/badge/Unity-v2020.1.9f1-000000"/>
 </a>
 <br>
 <a href="https://github.com/UnitySio/UnitySio">
