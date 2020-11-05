@@ -1,5 +1,8 @@
 ### Hello guys 👋
 
+<p>My name is Sio</p>
+<p>I'm Korean</p>
+
 ### Sio's contact
 
 <a href="https://github.com/UnitySio/UnitySio">
