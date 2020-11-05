@@ -63,15 +63,15 @@
 ### The software that Sio is using
 
 <a href="https://github.com/UnitySio/UnitySio">
-  <img align="center" src="https://img.shields.io/badge/Unity?color=000000-v2020.1.9f1-green?style=for-the-badge&logo=Unity"/>
+  <img align="center" src="https://img.shields.io/badge/Unity-v2020.1.9f1-green?style=for-the-badge&logo=Unity"/>
 </a>
 <br>
 <a href="https://github.com/UnitySio/UnitySio">
-  <img align="center" src="https://img.shields.io/badge/GameMaker Studio 2-v2.3-green"/>
+  <img align="center" src="https://img.shields.io/badge/GameMaker Studio 2-v2.3-green?style=for-the-badge&logo="/>
 </a>
 <br>
 <a href="https://github.com/UnitySio/UnitySio">
-  <img align="center" src="https://img.shields.io/badge/Adobe Photoshop 2021-v22.0-green"/>
+  <img align="center" src="https://img.shields.io/badge/Adobe Photoshop 2021-v22.0-green?style=for-the-badge&logo=Adobe Photoshop"/>
 </a>
 
 ### Sio's Github Stats
