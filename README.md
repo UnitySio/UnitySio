@@ -8,7 +8,13 @@
   <img align="center" src="https://img.shields.io/badge/-cwj4485-FFCD00?style=for-the-badge&logo=Kakao&logoColor=white"/>
 </a>
 <a href="https://github.com/UnitySio/UnitySio">
+  <img align="center" src="https://img.shields.io/badge/-dnwls010728@naver.com-green?style=for-the-badge&logo="/>
+</a>
+<a href="https://github.com/UnitySio/UnitySio">
   <img align="center" src="https://img.shields.io/badge/-dnwls010728@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/>
+</a>
+<a href="https://github.com/UnitySio/UnitySio">
+  <img align="center" src="https://img.shields.io/badge/-dnwls010728@outlook.kr-007BD4?style=for-the-badge&logo=Discord&logoColor=white"/>
 </a>
 <a href="https://github.com/UnitySio/UnitySio">
   <img align="center" src="https://img.shields.io/badge/-Sio%235669-7289DA?style=for-the-badge&logo=Discord&logoColor=white"/>
@@ -71,13 +77,28 @@
   <img align="center" src="https://img.shields.io/badge/-GameMaker Studio 2-green?style=for-the-badge&logo="/>
 </a>
 <a href="https://github.com/UnitySio/UnitySio">
-  <img align="center" src="https://img.shields.io/badge/-Adobe Photoshop 2021-31A8FF?style=for-the-badge&logo=Adobe-Photoshop&logoColor=white"/>
+  <img align="center" src="https://img.shields.io/badge/-Adobe Photoshop-31A8FF?style=for-the-badge&logo=Adobe-Photoshop&logoColor=white"/>
 </a>
 <a href="https://github.com/UnitySio/UnitySio">
   <img align="center" src="https://img.shields.io/badge/-Visual Studio-5C2D91?style=for-the-badge&logo=Visual-Studio&logoColor=white"/>
 </a>
 <a href="https://github.com/UnitySio/UnitySio">
   <img align="center" src="https://img.shields.io/badge/-Visual Studio Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white"/>
+</a>
+<a href="https://github.com/UnitySio/UnitySio">
+  <img align="center" src="https://img.shields.io/badge/-Android Studio-3DDC84?style=for-the-badge&logo=Android-Studio&logoColor=white"/>
+</a>
+<a href="https://github.com/UnitySio/UnitySio">
+  <img align="center" src="https://img.shields.io/badge/-GitKraken-179287?style=for-the-badge&logo=GitKraken&logoColor=white"/>
+</a>
+<a href="https://github.com/UnitySio/UnitySio">
+  <img align="center" src="https://img.shields.io/badge/-Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"/>
+</a>
+<a href="https://github.com/UnitySio/UnitySio">
+  <img align="center" src="https://img.shields.io/badge/-Slack-4A1548?style=for-the-badge&logo=Slack&logoColor=white"/>
+</a>
+<a href="https://github.com/UnitySio/UnitySio">
+  <img align="center" src="https://img.shields.io/badge/-Microsoft Office-D83B01?style=for-the-badge&logo=Microsoft-Office&logoColor=white"/>
 </a>
 
 ### Sio's Github Stats
