@@ -69,6 +69,7 @@
 <a href="https://github.com/UnitySio/UnitySio">
   <img align="center" src="https://img.shields.io/badge/Japanese-Nomal-green?style=for-the-badge&logo="/>
 </a>
+<br>
 <a href="https://github.com/UnitySio/UnitySio">
   <img align="center" src="https://img.shields.io/badge/Chinese-Normal-green?style=for-the-badge&logo="/>
 </a>
