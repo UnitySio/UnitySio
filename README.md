@@ -6,12 +6,6 @@
 ### :heavy_check_mark:Sio's contact
 
 <a href="https://github.com/UnitySio/UnitySio">
-  <img align="center" src="https://img.shields.io/badge/-cwj4485-FFCD00?style=for-the-badge&logo=Kakao&logoColor=white"/>
-</a>
-<a href="https://github.com/UnitySio/UnitySio">
-  <img align="center" src="https://img.shields.io/badge/-dnwls010728@naver.com-green?style=for-the-badge&logo="/>
-</a>
-<a href="https://github.com/UnitySio/UnitySio">
   <img align="center" src="https://img.shields.io/badge/-dnwls010728@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/>
 </a>
 <a href="https://github.com/UnitySio/UnitySio">
@@ -49,9 +43,6 @@
   <img align="center" src="https://img.shields.io/badge/-GMS-green?style=for-the-badge&logo="/>
 </a>
 <a href="https://github.com/UnitySio/UnitySio">
-  <img align="center" src="https://img.shields.io/badge/-XML-green?style=for-the-badge&logo="/>
-</a>
-<a href="https://github.com/UnitySio/UnitySio">
   <img align="center" src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=Java&logoColor=white"/>
 </a>
 <hr>
@@ -76,9 +67,6 @@
 
 <a href="https://github.com/UnitySio/UnitySio">
   <img align="center" src="https://img.shields.io/badge/-Unity-000000?style=for-the-badge&logo=Unity&logoColor=white"/>
-</a>
-<a href="https://github.com/UnitySio/UnitySio">
-  <img align="center" src="https://img.shields.io/badge/-GameMaker Studio 2-green?style=for-the-badge&logo="/>
 </a>
 <a href="https://github.com/UnitySio/UnitySio">
   <img align="center" src="https://img.shields.io/badge/-Adobe Photoshop-31A8FF?style=for-the-badge&logo=Adobe-Photoshop&logoColor=white"/>
