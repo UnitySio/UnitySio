@@ -1,6 +1,7 @@
 ### Hello guys 👋
 
 <p>My name is Sio.<br>I'm Korean.</p>
+<hr>
 
 ### Sio's contact
 
@@ -19,6 +20,7 @@
 <a href="https://github.com/UnitySio/UnitySio">
   <img align="center" src="https://img.shields.io/badge/-Sio%235669-7289DA?style=for-the-badge&logo=Discord&logoColor=white"/>
 </a>
+<hr>
 
 ### Sio can use these programming languages
 
@@ -52,6 +54,7 @@
 <a href="https://github.com/UnitySio/UnitySio">
   <img align="center" src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=Java&logoColor=white"/>
 </a>
+<hr>
 
 ### Sio can speak these languages
 
@@ -67,6 +70,7 @@
 <a href="https://github.com/UnitySio/UnitySio">
   <img align="center" src="https://img.shields.io/badge/-Chinese-green?style=for-the-badge&logo="/>
 </a>
+<hr>
 
 ### The software that Sio is using
 
@@ -88,6 +92,7 @@
 <a href="https://github.com/UnitySio/UnitySio">
   <img align="center" src="https://img.shields.io/badge/-Android Studio-3DDC84?style=for-the-badge&logo=Android-Studio&logoColor=white"/>
 </a>
+<br>
 <a href="https://github.com/UnitySio/UnitySio">
   <img align="center" src="https://img.shields.io/badge/-GitKraken-179287?style=for-the-badge&logo=GitKraken&logoColor=white"/>
 </a>
@@ -106,6 +111,7 @@
 <a href="https://github.com/UnitySio/UnitySio">
   <img align="center" src="https://img.shields.io/badge/-Aseprite-7D929E?style=for-the-badge&logo=Aseprite&logoColor=white"/>
 </a>
+<hr>
 
 ### Sio's Github Stats
 
