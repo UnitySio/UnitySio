@@ -1,9 +1,9 @@
-### :information_source:Hello, guys
+### Hello, guys:wave:
 
 <p>My name is Sio.<br>I'm Korean.</p>
 <hr>
 
-### Sio's contact
+### :heavy_check_mark:Sio's contact
 
 <a href="https://github.com/UnitySio/UnitySio">
   <img align="center" src="https://img.shields.io/badge/-cwj4485-FFCD00?style=for-the-badge&logo=Kakao&logoColor=white"/>
@@ -26,7 +26,7 @@
 </a>
 <hr>
 
-### Sio can use these programming languages
+### :heavy_check_mark:Sio can use these programming languages
 
 <a href="https://github.com/UnitySio/UnitySio">
   <img align="center" src="https://img.shields.io/badge/-C-ABB9CC?style=for-the-badge&logo=C&logoColor=white"/>
@@ -60,7 +60,7 @@
 </a>
 <hr>
 
-### Sio can speak these languages
+### :heavy_check_mark:Sio can speak these languages
 
 <a href="https://github.com/UnitySio/UnitySio">
   <img align="center" src="https://img.shields.io/badge/-Korean-green?style=for-the-badge&logo="/>
@@ -76,7 +76,7 @@
 </a>
 <hr>
 
-### The software that Sio is using
+### :heavy_check_mark:The software that Sio is using
 
 <a href="https://github.com/UnitySio/UnitySio">
   <img align="center" src="https://img.shields.io/badge/-Unity-000000?style=for-the-badge&logo=Unity&logoColor=white"/>
@@ -116,7 +116,7 @@
 </a>
 <hr>
 
-### Sio's Github Stats
+### :heavy_check_mark:Sio's Github Stats
 
 <a href="https://github.com/UnitySio/UnitySio">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UnitySio&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=90,2b5876,4e4376" />
