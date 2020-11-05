@@ -100,6 +100,12 @@
 <a href="https://github.com/UnitySio/UnitySio">
   <img align="center" src="https://img.shields.io/badge/-Microsoft Office-D83B01?style=for-the-badge&logo=Microsoft-Office&logoColor=white"/>
 </a>
+<a href="https://github.com/UnitySio/UnitySio">
+  <img align="center" src="https://img.shields.io/badge/-Blender-F5792?style=for-the-badge&logo=Blender&logoColor=white"/>
+</a>
+<a href="https://github.com/UnitySio/UnitySio">
+  <img align="center" src="https://img.shields.io/badge/-Aseprite-7D929E?style=for-the-badge&logo=Aseprite&logoColor=white"/>
+</a>
 
 ### Sio's Github Stats
 
