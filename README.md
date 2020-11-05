@@ -1,6 +1,6 @@
 ### Hello guys 👋
 
-<p>My name is Sio.<br>>I'm Korean.</p>
+<p>My name is Sio.<br>I'm Korean.</p>
 
 ### Sio's contact
 
