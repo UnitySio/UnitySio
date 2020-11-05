@@ -2,6 +2,10 @@
 
 ### Sio's contact
 
+<a href="https://github.com/UnitySio/UnitySio">
+  <img align="center" src="https://img.shields.io/badge/KakaoTalk-cwj4485-FFCD00?style=for-the-badge&logo=Kakao"/>
+</a>
+
 ### Sio can use these programming languages
 
 <a href="https://github.com/UnitySio/UnitySio">
