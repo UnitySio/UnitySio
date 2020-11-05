@@ -63,6 +63,7 @@
 ### The software that Sio is using
 
 <a href="https://github.com/UnitySio/UnitySio">
+  <img align="center" src="https://simpleicons.org/icons/unity.svg"/>
   <img align="center" src="https://img.shields.io/badge/Unity-v2020.1.9f1-green"/>
 </a>
 <br>
