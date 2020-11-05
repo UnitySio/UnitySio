@@ -71,7 +71,7 @@
 </a>
 <br>
 <a href="https://github.com/UnitySio/UnitySio">
-  <img align="center" src="https://img.shields.io/badge/Adobe Photoshop 2021-v22.0-green?style=for-the-badge&logo=Adobe Photoshop"/>
+  <img align="center" src="https://img.shields.io/badge/Adobe Photoshop 2021-v22.0-green?style=for-the-badge&logo=Adobe-Photoshop"/>
 </a>
 
 ### Sio's Github Stats
