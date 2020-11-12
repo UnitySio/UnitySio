@@ -1,9 +1,3 @@
-<script>
-  for (var i = 0; i < 10; i++) {
-    document.write(i);
-  }
-</script>
-
 ### Hello, guys:wave:
 
 <p>My name is Sio.<br>I'm Korean.</p>
