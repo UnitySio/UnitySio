@@ -1,4 +1,4 @@
-### Hello, guys:wave:
+### Hi, There:wave:
 
 <p>My name is Sio.<br>I'm Korean.</p>
 <hr>
