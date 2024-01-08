@@ -19,6 +19,9 @@
 [Repository](https://github.com/UnitySio/SlimeRaid)
 
 ## ETC Project
+### MSInfo
+추후 public으로 변경 예정
+![image](https://github.com/UnitySio/UnitySio/assets/38973547/885fe9bb-e81a-406e-8623-aa4adab04e03)
 ### UEStudy
 [Repository](https://github.com/UnitySio/UEStudy)
 ### Sio Engine
