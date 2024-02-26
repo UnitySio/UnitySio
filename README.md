@@ -8,7 +8,7 @@
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ## Release Project
-### 앵무용사 (2024년 2월 출시 예정)
+### 앵무용사 (2024년 출시 예정)
 [앵무용사 텀블벅](https://tumblbug.com/cockatiel?ref=GNB%2F%EB%94%94%EC%A7%80%ED%84%B8%20%EA%B2%8C%EC%9E%84)
 
 ### 왁두의 전설 - 형의 숨결 (2024년 출시 예정)
